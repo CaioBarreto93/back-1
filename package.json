@@ -1,0 +1,22 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "Projeto piloto para teste de deploy em VPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioBarreto93/back-1.git"
+  },
+  "author": "Caio Barreto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioBarreto93/back-1/issues"
+  },
+  "homepage": "https://github.com/CaioBarreto93/back-1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
